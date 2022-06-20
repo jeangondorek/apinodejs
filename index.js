@@ -23,8 +23,8 @@ app.get('/',(req, res) => {
 
 // mongodb+srv://${DB_USER}:${DB_PASSWD}@apijsjean.pvhda.mongodb.net/?retryWrites=true&w=majority
 
-const DB_USER = 'jeangondorek'
-const DB_PASSWD = encodeURIComponent('k4w8tszi87AyLU4b')
+const DB_USER = 'USUARIO'
+const DB_PASSWD = encodeURIComponent('SENHA')
 
 
 //porta
