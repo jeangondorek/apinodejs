@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["express","required","app","use"],"mappings":";;AAAA,IAAMA,OAAO,GAAGC,QAAQ,CAAC,SAAD,CAAxB;AACA,IAAMC,GAAG,GAAGF,OAAO,EAAnB;AAEAE,GAAG,CAACC,GAAJ","sourcesContent":["const express = required('express')\r\nconst app = express()\r\n\r\napp.use(\r\n\r\n)\r\n"],"file":"index.dev.js"}
